@@ -4,6 +4,8 @@
 
 ![alt Hello World Pic](https://i.ytimg.com/vi/q59Z5Ies-1Q/hqdefault.jpg)
 
+*Markdown does not support colored texts, so I also made a copy of the notes in Notion. Definitions, key points, and possible mistakes are all highlited on there and should be more pleasing to read. Here is the link:*<br>
+[Notion Notes](https://alive-castanet-707.notion.site/Inf1a-7ee4bd9befc54d4eb7bce27d54b238ce)
 > <strong>Notes:<br>
 > Course Important Info
 > 1. **Week 1:Intro to Haskell**<br>
