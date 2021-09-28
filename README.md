@@ -17,7 +17,7 @@
 > <br>
  
 > Computation and Logic:<br>
-> 1. [Set Theories]()<br>
->    a.[Haskell Enviornment Setup](https://www.haskell.org/platform/)<br>
+> 1. Week1:Set Theories<br>
+>    a.[Set Theories](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Course%20Notes/Week1%20CL.md)<br>
   
 > <strong>Practice Code/Questions:
