@@ -32,22 +32,22 @@ To prove A = B, we can prove that $A \sub B$ and $B \sub A$
     *This is the subset of students either has red hair or brown eyes.*
     
 
-![1.PNG](Week1%20CL%200345622bfa7641d69573157822476c91/1.png)
+![1.PNG](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Images/set1.png)
 
 - The intersection $A \bigcap B$ of two sets A and B is the set that contains all the things that are elements of both A and B.
     
-    ![1.PNG](Week1%20CL%200345622bfa7641d69573157822476c91/1%201.png)
+    ![1.PNG](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Images/set2.png)
     
     *This is the subset of students that have both red hair and brown eyes.*
     
 
-![1.PNG](Week1%20CL%200345622bfa7641d69573157822476c91/1%202.png)
+![1.PNG](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Images/set3.png)
 
 - The difference A - B of two sets A and B is the set that contains all the elements of A that are not in B.
 - The complement of a set A is the set $\overline{A}$ of everything that is not in A. Complement only makes sense with respect to some universe of lements under consideration.
 - Power Set：
 
-![1.PNG](Week1%20CL%200345622bfa7641d69573157822476c91/1%203.png)
+![1.PNG](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Images/set4.png)
 
 **Ordered Pairs and Cartesian Product**
 
@@ -63,7 +63,7 @@ A set of ordered pairs can be regarded as a relation in which the first componen
 
 Ex：
 
-![2.PNG](Week1%20CL%200345622bfa7641d69573157822476c91/2.png)
+![2.PNG](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Images/set5.png)
 
 **Functions**
 
