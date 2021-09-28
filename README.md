@@ -5,6 +5,6 @@
 ![alt Hello World Pic](https://i.ytimg.com/vi/q59Z5Ies-1Q/hqdefault.jpg)
 
 > <strong>Notes：
-> + Haskell Notes
+> Course Syllabus
   
 > <strong>Practice Code/Questions:
