@@ -12,8 +12,8 @@
 > 1. **Week 1:Intro to Haskell**<br>
 >    a.[Haskell Enviornment Setup](https://www.haskell.org/platform/)<br><br>
 > 2. **Week 2:Types and Functions**<br>
->    a.[Types](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Course%20Notes/Week2(1).md)<br>
->    b.[Function Application, Lists&Tuples](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Course%20Notes/Week2(2).md)<br>
+>    a.[Types](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Course%20Notes/Week2%20FP(1).md)<br>
+>    b.[Function Application, Lists&Tuples](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Course%20Notes/Week2%20FP(2).md)<br>
 > <br>
  
 > Computation and Logic:<br>
