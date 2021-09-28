@@ -61,7 +61,7 @@ ghci> True && "False"
 
 It will give us the following error:
 
-![1.PNG](Week2%E5%AD%A6%E4%B9%A0%203a8c44a5d8024d779feda4c999881521/1.png)
+![1.PNG](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Images/Ill%20Typed%20Error.png)
 
 This is because the compiler has inferred the type of the expression "False" to be [Char]. The (&&) operator requires each of its operands on the side to be of the type Bool, and since the expression "False" does not match the requirement, the compiler rejects this expression as ill typed.
 
