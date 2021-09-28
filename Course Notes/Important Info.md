@@ -1,4 +1,4 @@
-# Course Syllabus
+# Inf1a Important Info
 
 Course Name: Introduction to Computation
 Date: September 18, 2021
