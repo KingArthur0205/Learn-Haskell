@@ -1,4 +1,4 @@
-# Course Syllabus
+# Inf1a Important Info
 
 Course Name: Introduction to Computation
 Date: September 18, 2021
@@ -32,6 +32,6 @@ Posted under the Course Textbook link in Learn
 
 **Course Contacts：**
 
-![1.PNG](Course%20Syllabus%207836ab94fb314351b639c0b0880e4c7f/1.png)
+![Course Contacts.png](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Images/Course%20Contacts.png)
 
 **[Information Service](https://edinburgh-uk.libguides.com/informatics)**

@@ -4,7 +4,12 @@
 
 ![alt Hello World Pic](https://i.ytimg.com/vi/q59Z5Ies-1Q/hqdefault.jpg)
 
-> <strong>Notes：
-> Course Syllabus
+> <strong>Notes:<br>
+> Course Important Info
+> 1. Week 1:Intro to Haskell<br>
+>    a.[Haskell Enviornment Setup](https://www.haskell.org/platform/)<br><br>
+> 2. Week 2:Types and Functions<br>
+>    a.Types<br>
+>    b.Function Application, Lists&Tuples<br>
   
 > <strong>Practice Code/Questions:
