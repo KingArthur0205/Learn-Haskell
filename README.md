@@ -10,6 +10,6 @@
 >    a.[Haskell Enviornment Setup](https://www.haskell.org/platform/)<br><br>
 > 2. Week 2:Types and Functions<br>
 >    a.[Types](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Course%20Notes/Week2(1).md)<br>
->    b.Function Application, Lists&Tuples<br>
+>    b.[Function Application, Lists&Tuples](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Course%20Notes/Week2(2).md)<br>
   
 > <strong>Practice Code/Questions:
