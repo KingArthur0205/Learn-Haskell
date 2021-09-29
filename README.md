@@ -14,7 +14,7 @@
 > 2. **Week 2:Types and Functions**<br>
 >    a.[Types](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Course%20Notes/Week2%20FP(1).md)<br>
 >    b.[Function Application, Lists&Tuples](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Course%20Notes/Week2%20FP(2).md)<br>
-> <br>
+>    c.[Functions over Lists&Tuples, Variables, and Conditional Evaluation](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Course%20Notes/Week2%20FP(3).md)<br>
  
 > Computation and Logic:<br>
 > 1. Week1:Set Theories<br>
