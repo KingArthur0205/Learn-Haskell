@@ -96,7 +96,7 @@ x = 10
 x = 11
 ```
 
-![1.PNG](Week2%20FP(3)%2082682d00917f415f96b4e2dd625e636d/1.png)
+![1.PNG](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Images/variable%20crash.png)
 
 **Conditional  Evaluation**
 
