@@ -107,8 +107,8 @@ We want to define our own drop function, which returns an exmpty list if the fir
 ```haskell
 myDrop :: Int -> [a] -> [a]
 myDrop n xs = if n <= 0 || null xs
-							then xs
-							else myDrop(n - 1)(tail xs)
+	      then xs
+	      else myDrop(n - 1)(tail xs)
 ```
 
 In Haskell, indentation is IMPORTANT! It continues an existing definition, instead of starting a new one. DO NOT OMIT THE INDENTATION!!!
