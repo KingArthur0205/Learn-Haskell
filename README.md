@@ -17,11 +17,11 @@
 >    c.[Functions over Lists&Tuples, Variables, and Conditional Evaluation](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Course%20Notes/Week2%20FP(3).md)<br>
 > 3. **Week 3:Defining Types, Streamlining Functions**<br>
 >    a.[Define a new Data Type, Type Synonyms, and Algebraic Data Types](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Course%20Notes/Week3%20FP.md)
+>    b.[Construction&Deconstruction, Wild Card Pattern, and Record Syntax](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Course%20Notes/Week3%20FP(2).md)
  
 > Computation and Logic:<br>
 > 1. Week1:Set Theories<br>
 >    a.[Set Theories](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Course%20Notes/Week1%20CL.md)<br>
-> 2. Week2:<br>
->    a.<br>
+
  
 > <strong>Practice Code/Questions:
