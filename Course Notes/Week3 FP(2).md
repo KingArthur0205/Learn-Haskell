@@ -174,8 +174,8 @@ customer1 = Customer {
 
 Old way of printing:
 
-![1.PNG](Week%203%20FP(2)%20276b7a1a75ec4795bff31b9de77dbf4f/1.png)
+![1.PNG](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Images/old_printing_DT.png)
 
 New way of printing:
 
-![2.PNG](Week%203%20FP(2)%20276b7a1a75ec4795bff31b9de77dbf4f/2.png)
+![2.PNG](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Images/new_printing_DT.png)
