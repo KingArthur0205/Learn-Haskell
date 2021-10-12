@@ -18,7 +18,7 @@
 > 3. **Week 3:Defining Types, Streamlining Functions**<br>
 >    a.[Define a new Data Type, Type Synonyms, and Algebraic Data Types](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Course%20Notes/Week3%20FP.md)<br>
 >    b.[Construction&Deconstruction, Wild Card Pattern, and Record Syntax](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Course%20Notes/Week3%20FP(2).md)<br>
-> 4. **Week 4: **<br>
+> 4. Week 4: <br>
 >    a.[Map, Filter, and Fold](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Course%20Notes/Week4%20FP.md)<br>
  
 > Computation and Logic:<br>
