@@ -20,7 +20,7 @@ badExample (x : xs) = x + badExample xs
 
 If we apply this to a value that it cannot match, we'l get an error at runtime.
 
-![1.PNG](Week%204%20FP(2)%209a6db2b8d844453fb460558b68d874cb/1.png)
+![1.PNG](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Images/Exhaustive%20Types.png)
 
 **Parameterised Types**
 
