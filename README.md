@@ -20,10 +20,13 @@
 >    b.[Construction&Deconstruction, Wild Card Pattern, and Record Syntax](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Course%20Notes/Week3%20FP(2).md)<br>
 > 4. Week 4: <br>
 >    a.[Map, Filter, and Fold](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Course%20Notes/Week4%20FP.md)<br>
+>    b.[Exhaustive Types&Recursive Types](![Uploading image.png…]()
+)
  
 > Computation and Logic:<br>
 > 1. Week1:Set Theories<br>
 >    a.[Set Theories](https://github.com/KingArthur0205/Learn-Haskell/blob/main/Course%20Notes/Week1%20CL.md)<br>
+
 
  
 > <strong>Practice Code/Questions:
